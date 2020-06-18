@@ -1,5 +1,5 @@
 # PyPong
-Self learning (squash) pong
+Self learning (squash) pong game
 
 Inspired from [this Computerphile series](https://www.youtube.com/playlist?list=PLzH6n4zXuckoUWpzSEpQNW6I8rXIzyi8w)
 
